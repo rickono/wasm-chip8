@@ -1,0 +1,9 @@
+#registers {
+  display: flex;
+  gap: 10px;
+}
+
+.instruction {
+  display: flex;
+  gap: 10px;
+}
